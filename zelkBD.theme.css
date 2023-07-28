@@ -95,16 +95,7 @@
   --switch: #3d4c53;
   --activity-card-background: var(--background-1);
   --brand-experiment: var(--accent-color) !important;
-  /* buttons */
-  --button-background: #262e33;
-  --button-background-hover: #354249;
-  --button-background-active: #262e33;
-  --button-accent: #262e33;
-  --button-accent-hover: #d2f3ff;
-  --button-accent-active: #262e33;
-  --button-destructive: #fb7c7c;
-  --button-destructive-hover: #ff929b;
-  --button-destructive-active: #fa4a4a;
+
 }
 .theme-light {
   /* background */
